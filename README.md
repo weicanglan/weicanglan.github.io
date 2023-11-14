@@ -1,5 +1,8 @@
-# weicanglan.github.io
-Aus der Neuen Welt;
+# 欢迎来到蔚蒼蘭的线上小窝!
+喊出我们的口号:Aus der Neuen Welt
 
-% 希望github能识别简体中文字符输入
-# 希望github能识别简体中文字符输入
+最近更新时间: 14 Nov 2023
+# 近期待办事项
+
+# 向着真正的博客迈进!
+(1) 实现文件插入等超链接
