@@ -2,15 +2,17 @@
 
 [来♂喊出我们的口号: Aus der Neuen Welt]
 
+请记得访问有关Github的快速编写入门:https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+
 最近更新时间: 14 Nov 2023
 
 近期待办事项
 -
-- 简历
-- 中期答辩
-- 论文
-- 减肥
-
+| 优先级 | 名称 |
+|-----:|-----------|
+|     1| 简历 |
+|     2| 中期答辩 |
+|     3| 毕业论文 |
 
 日志专区
 -
